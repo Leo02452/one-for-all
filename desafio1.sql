@@ -66,9 +66,9 @@ VALUES
 INSERT INTO SpotifyClone.artistas (nome_artista)
 VALUES
   ('Walter Phoenix'),
-  ('Peter Strongx'),
+  ('Peter Strong'),
   ('Lance Day'),
-  ('Freddie Shannon'),
+  ('Freedie Shannon'),
   ('Tyler Isle'),
   ('Fog');
 
@@ -100,8 +100,8 @@ VALUES
   ('Celebration Of More', 146, 4),
   ('Rock His Everything', 223, 4),
   ('Home Forever', 231, 4),
-  ('Diamong Power', 241, 4),
-  ("Let's Be Silly", 134, 4),
+  ('Diamond Power', 241, 4),
+  ("Let's Be Silly", 132, 4),
   ('Thang of Thunder', 240, 5),
   ('Words Of Her Llife', 185, 5),
   ('Without My Streets', 176, 5),
@@ -114,8 +114,8 @@ VALUES
   ('Walking And Man', 229, 7),
   ('Hard And Time', 135, 7),
   ("Honey, I'm A Lone Wolf", 150, 7),
-  ("She Thinks I Won't Stay Tonight", 165, 8),
-  ("He Heard You're Bad For Me", 145, 8),
+  ("She Thinks I Won't Stay Tonight", 166, 8),
+  ("He Heard You're Bad For Me", 154, 8),
   ("He Hopes We Can't Stay", 210, 8),
   ('I Know I Know', 117, 8),
   ("He's Walking Away", 159, 9),
